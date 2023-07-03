@@ -1,4 +1,4 @@
-# dice-roller-streamlit
+# Dice-Roller-Streamlit-Package
 You build a data science or Machine learning project, it works perfectly fine, then what ? It needs audience. Yes, sharing in GitHub and other data science platforms does get you some au-dience. aren’t these platforms not confined to other data scientists or software engineers? Is it enough? Many a times, end user are business leaders or Managers are empowered from these pro-ject insights. It has become a need of data scientist to build an app or web app to showcase what their Project can do in a simplified manner. With these Web app, the end user can play or use extensively and get an insight out of the project. 
 There are many packages which can help you build a dashboard or a web app from your python based machine learning project. Such as Dash, Voila, Panel, Streamlit etc. My personal favorite is Streamlit for its simplicity, very easy to learn . Here, I want to show you , how easily a  dice roll-er app can be built with very few lines of code .
 
