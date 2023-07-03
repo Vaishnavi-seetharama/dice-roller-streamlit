@@ -42,26 +42,26 @@ if submitted:
     
      
 if no == 1:
-	img = Image.open(r"C:\Users\INVASEE\Downloads\dice_images\dice_images\dice_1.png")
+	img = Image.open(r"\dice_1.png")
 	mygrid[1][1].image(img)	
 	
 if no == 2:
-	img = Image.open(r"C:\Users\INVASEE\Downloads\dice_images\dice_images\dice_2.png")
+	img = Image.open(r"\dice_2.png")
 	mygrid[1][1].image(img)
 	
 if no == 3:
-	img = Image.open(r"C:\Users\INVASEE\Downloads\dice_images\dice_images\dice_3.png")
+	img = Image.open(r"\dice_3.png")
 	mygrid[1][1].image(img)
 	
 if no == 4:
-	img = Image.open(r"C:\Users\INVASEE\Downloads\dice_images\dice_images\dice_4.png")
+	img = Image.open(r"\dice_4.png")
 	mygrid[1][1].image(img)
 	
 if no == 5:
-	img = Image.open(r"C:\Users\INVASEE\Downloads\dice_images\dice_images\dice_5.png")
+	img = Image.open(r"\dice_5.png")
 	mygrid[1][1].image(img)
 	
 if no == 6:
-	img = Image.open(r"C:\Users\INVASEE\Downloads\dice_images\dice_images\dice_6.png")
+	img = Image.open(r"\dice_6.png")
 	mygrid[1][1].image(img)	
 
