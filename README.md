@@ -9,3 +9,5 @@ Streamlit is an open-source Python library. It simplifies the process of buildin
 Why Dice roller app?
 
 Here I will show you , how to build a popular dice roller web app using streamlit. Now you may ask , why dice roller app ? I feel Dice roller app is simple, very much familiar to everyone , it is also interactive . it is visually interactive, when the dice are rolled in the app, the result is visually displayed . It is very simple to code this app . you can learn the concept by building this app and use it for any other complex project of yours .
+
+Please use the code to see how to build the app
